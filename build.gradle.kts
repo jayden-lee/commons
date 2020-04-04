@@ -1,8 +1,9 @@
 plugins {
     kotlin("jvm") version "1.3.71"
+    id("com.github.dcendents.android-maven") version "2.1"
 }
 
-group = "com.jayden"
+group = "com.github.jayden-lee"
 version = "0.0.1"
 
 repositories {
