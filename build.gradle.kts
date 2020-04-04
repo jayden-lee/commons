@@ -7,6 +7,7 @@ version = "0.0.1"
 
 repositories {
     mavenCentral()
+    maven { setUrl("https://jitpack.io") }
 }
 
 dependencies {
